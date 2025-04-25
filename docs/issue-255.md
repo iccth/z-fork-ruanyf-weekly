@@ -90,7 +90,7 @@ AI 未来会怎样，没有办法预知，但是可以确定，它目前的编�
 
 汽车盗窃案增加了警察的工作量，而且小偷开着偷来的车鲁莽驾驶，造成了很多交通事故，然后弃车逃跑，市政府头痛不已。
 
-这件事的教训就是，如果采用旧技术，又不修 Bug，就有被告的风险。
+这件事的教训就是，如果采用旧技术，又不修 Bug，就有被告的风险。 //[[戒|laws]]  [[博弈]] [[Zen]]
 
 3、[无线充电公路](http://tech.ce.cn/news/202209/27/t20220927_38129413.shtml)
 
@@ -98,7 +98,7 @@ AI 未来会怎样，没有办法预知，但是可以确定，它目前的编�
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092908.webp)
 
-这种公路在地面下埋设了电子线圈，电动汽车内部也安装了线圈，利用磁场感应，就能行车充电，让汽车行驶更多里程。
+这种公路在地面下埋设了电子线圈，电动汽车内部也安装了线圈，利用[[磁]]场感应，就能行车充电，让汽车行驶更多里程。 //[[桥水]]
 
 一想到这种公路造在一排线圈上面，就觉得设计者很大胆。走在这种道路上，是不是手机也可以无线充电？
 
@@ -128,7 +128,7 @@ AI 模型可以生成一模一样的声音，很多名人不允许 AI 使用自�
 
 上周，AI 图片生成引擎 Midjourney 正式发布中国版了，本文介绍怎么使用。
 
-3、[88岁 MIT 教授的最后一堂线性代数课](https://www.jiqizhixin.com/articles/2023-05-16-2)（中文）
+3、[88岁 MIT 教授的最后一堂线性代数课](https://www.jiqizhixin.com/articles/2023-05-16-2)（中文） //[[线性代数]] [[urls]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051821.webp)
 
@@ -178,7 +178,7 @@ IP 地址一般都写成 127.0.0.1 这种形式，但是你知道吗，还存在
 
 AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用。
 
-3、[Chat with any PDF](https://damngood.tools/tools/chat-pdf)
+3、[Chat with any PDF](https://damngood.tools/tools/chat-pdf) //[[ChatGPT|GPT]] [[tool]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051207.webp)
 
@@ -196,7 +196,8 @@ AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051813.webp)
 
-基于中文法律知识的开源大语言模型，很适合用于司法考试。（[@pengxiao-song](https://github.com/ruanyf/weekly/issues/3116) 投稿）
+基于中文法律知识的开源大语言模型，很适合用于司法考试。
+（[@pengxiao-song](https://github.com/ruanyf/weekly/issues/3116) 投稿）
 
 6、[mblog](https://github.com/kingwrcy/mblog-backend)
 
@@ -242,7 +243,7 @@ AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型
 
 这个 awesome 仓库收集 ChatGPT 的各种资源。
 
-3、[Spring 中文文档](https://springdoc.cn/)
+3、[Spring 中文文档](https://springdoc.cn/) //[[Spring]] [[Dic]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051802.webp)
 
@@ -300,7 +301,7 @@ P2P（点对点）是一种节省带宽的下载方法。
 
 这些视频网站的业务，分成视频直播和视频点播两类。
 
-对于直播，头部前1%的直播主会占据大部分带宽，直播房间很轻松就会有大量观看者，这时 P2P 的效果就很好。因为 P2P 的特点是看的人越多，下载速度越快。
+对于直播，头部前1%的直播主会占据大部分带宽，直播房间很轻松就会有大量观看者，这时 P2P 的效果就很好。因为 P2P 的特点是看的人越多，下载速度越快。 //[[ComputerNetwork]]
 
 对于点播，如果同时观看同一个节目的人比较少， P2P 的效果会很差。中国视频网站就发明了家用“种子盒”，它基本上是一个带硬盘的路由器，用户买了它放在家里当作普通的无线路由器使用，但在后台它会自动连接视频网站的服务器，缓存视频用作 P2P 节点，提供带宽给其他用户，以加快下载速度。它的使用者可能会从中获得一些奖励（主要是数字积分）。本质上，这类“种子盒”是使用用户的家庭互联网，作为 CDN 边缘节点。
 
@@ -322,13 +323,13 @@ P2P（点对点）是一种节省带宽的下载方法。
 
 我每天有8小时用于工作，但真正能够专注的时间可能只有4小时。我不能再把这点时间分出来了。
 
--- [《时间和注意力的区别》](https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb)
+-- [《时间和注意力的区别》](https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb) //[[时间]] [[思想|注意力]] [[853609067]]
 
 3、
 
-越来越多的年轻人认为，AI 是他们的朋友。一位17岁年轻人告诉我，“我与机器人聊天的次数超过了与大多数朋友聊天的次数。”
+越来越多的年轻人认为，AI 是他们的朋友。一位17岁年轻人告诉我，“我与机器人聊天的次数超过了与大多数朋友聊天的次数。” //[[大型生命体]]
 
-人是孤独的，AI 提供了不变的陪伴。
+人是[[孤独]]的，AI 提供了不变的陪伴。
 
 -- [《AI 界面革命》](https://digitalnative.substack.com/p/ais-interface-revolution)
 

@@ -282,7 +282,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040202.webp)
 
-只需在命令行执行一条命令，就能自己搭建 Git 服务器，简单易用，但是不带 Web 界面。
+只需在命令行执行一条命令，就能自己搭建 [[Git]] 服务器，简单易用，但是不带 Web 界面。 //[[tool]] [[Git]]
 
 7、[JShelter](https://jshelter.org/)
 
@@ -350,7 +350,7 @@
 
 网友提供从必应壁纸抓取的数据。（[@mouday](https://github.com/ruanyf/weekly/issues/3126) 投稿）
 
-3、[强化学习 100 题](https://p100.koki-saitoh.com/zh-CN)
+3、[强化学习 100 题](https://p100.koki-saitoh.com/zh-CN) //[[ArtificialIntelligence]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052519.webp)
 
@@ -420,13 +420,13 @@
 
 1、
 
-美国经济的一个优势是，在美国创业很容易，解雇员工和企业破产也很容易，这大大方便了资源的快速重组。
+美国经济的一个优势是，在美国创业很容易，解雇员工和企业破产也很容易，这大大方便了资源的快速重组。 //[[economics]]
 
 -- [《美国经济的出色表现》](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 
 2、
 
-工作永无止境，所以学会热爱工作，享受工作，沉迷于工作吧，否则人生就太痛苦了。
+工作永无止境，所以学会热爱工作，享受工作，沉迷于工作吧，否则人生就太痛苦了。 //[[job]]
 
 -- [《工作永无止境》](https://patwalls.com/the-work-never-ends)
 
@@ -440,7 +440,7 @@
 
 4、
 
-一旦你的手机与手机信号塔开始连接，你就没有隐私了。
+一旦你的手机与手机信号塔开始连接，你就没有隐私了。 //[[反互联网寄生方案]]
 
 -- [《手机的“位置关闭”开关是一个谎言》](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
 

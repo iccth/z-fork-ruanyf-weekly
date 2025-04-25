@@ -12,7 +12,7 @@
 
 ## 黑客马拉松的正确方式
 
-你参加过黑客马拉松（hackathon）吗？
+你参加过[[Hack|黑客]]马拉松（hackathon）吗？
 
 那是一种编程比赛，程序员聚集到一个地点（通常是会议室），在指定时间完成各自的项目，然后评出获胜者。
 
@@ -56,9 +56,9 @@
 
 我顿时觉得，这才是黑客马拉松的正确方式，以前那种集训式的比赛方式太无趣了，**太看重竞技和名次，忽视了交流和乐趣**。
 
-黑客马拉松的结果，其实不重要，几十个小时的命题作文，能得到什么有价值的结果？反而是陌生的年轻人聚在一起，互相交流，结交朋友，碰撞思想，这才是最有价值的。另外，在风景美丽的热带海岛上“编程 + 旅行”，也会留下终身难忘的美好回忆。
+黑客马拉松的结果，其实不重要，几十个小时的命题作文，能得到什么有价值的结果？反而是陌生的年轻人聚在一起，互相交流，结交朋友，碰撞思想，这才是最有价值的 //[[愿力总纲]] [[开心]]。另外，在风景美丽的热带海岛上“编程 + 旅行”，也会留下终身难忘的美好回忆。
 
-这样的比赛更接近黑客的本质：**编程是为了乐趣和好奇心，是一种探索，而不是竞技**。
+这样的比赛更接近[[Hack|黑客]]的本质：**编程是为了[[开心|乐趣]]和[[好奇心]]，是一种探索，而不是竞技**。 //[[Zen]]
 
 我真心建议，国内的黑客马拉松借鉴这种方式，也搬到风景优美的旅游区举行，至少要营造让大家结识攀谈的场合和时间，交流第一，比赛第二。
 
@@ -70,7 +70,7 @@
 
 它是一款指纹浏览器，或者准确地说，应该是 **“反指纹浏览器”，防止网站获取你的浏览器指纹**。
 
-所谓“浏览器指纹”，就是网站对用户生成独一无二的标志，用来追踪用户。它用到了很多高深的技术。
+所谓“[[浏览器指纹]]”，就是网站对用户生成独一无二的标志，用来追踪用户。它用到了很多高深的技术。
 
 > - 基本指纹指标：UserAgent、屏幕分辨率、CPU 核心数、内存、插件、语言等。
 > - 高级指纹：Canvas、WebGL、AudioContext、WebRT、字体等。
@@ -110,7 +110,7 @@ AdsPower 的发展势头非常迅猛，全球已经有80万用户，海外的口
 
 1、[泳池机房](https://arstechnica.com/information-technology/2023/03/free-data-center-heat-is-allegedly-saving-a-struggling-public-pool-24k-a-year/)
 
-机房产生大量热量，需要散热。一家英国公司想到了建造“泳池机房”，把机房建在游泳馆，让其为温水泳池供暖。
+机房产生大量热量，需要散热。一家英国公司想到了建造“泳池机房”，把机房建在游泳馆，让其为温水泳池供暖。 //[[桥水]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032104.webp)
 
@@ -152,7 +152,7 @@ AdsPower 的发展势头非常迅猛，全球已经有80万用户，海外的口
 
 病人一边开刀，一边 VR 观看360度全景视频，里面是宁静的草地、山脉、森林和星空，结果就比对照组减少了麻醉药用量。
 
-医生认为，这说明 VR 头盔让病人更加放松，对疼痛的关注更少。由于少用麻醉药，可以更快醒来，对身体的影响也小一点，以后病人也许都会带着头盔开刀。
+医生认为，这说明 VR 头盔让病人更加放松，对疼痛的关注更少。由于少用麻醉药，可以更快醒来，对身体的影响也小一点，以后病人也许都会带着头盔开刀。 //[[思想|注意力]]
 
 ## 文章
 
@@ -178,33 +178,33 @@ AdsPower 的发展势头非常迅猛，全球已经有80万用户，海外的口
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070405.webp)
 
-作者采用 VitePress 搭建博客，本文介绍他怎么引入 GitHub issue 作为网站的评论功能。（[@Richard-Zhang1019](https://github.com/ruanyf/weekly/issues/3237) 投稿）
+作者采用 VitePress 搭建博客，本文介绍他怎么引入 [[GitHub]] issue 作为网站的评论功能。（[@Richard-Zhang1019](https://github.com/ruanyf/weekly/issues/3237) 投稿）
 
 5、[为什么 OAuth 仍然很难？](https://www.nango.dev/blog/why-is-oauth-still-hard)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042601.webp)
 
-OAuth 是最常用的身份认证协议，本文分析它的一些难点，为什么至今仍然让人觉得很困难。
+[[OAuth2|OAuth]] 是最常用的身份认证协议，本文分析它的一些难点，为什么至今仍然让人觉得很困难。
 
-另外，这里还有一篇[《OAuth2 概述》](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)（英文），在很短的篇幅里面，清楚地介绍了 OAuth。
+另外，这里还有一篇[《OAuth2 概述》](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)（英文），在很短的篇幅里面，清楚地介绍了 [[OAuth2|OAuth]]。
 
 6、[老旧 MacBook 如何安装 Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040601.webp)
 
-一篇详细的指南，教你怎么把过时的 MacBook 利用起来，装上 Linux。
+一篇详细的指南，教你怎么把过时的 Macbook 利用起来，装上 Linux。
 
 7、[MySQL 和 MariaDB 的差异](https://www.skeema.io/blog/2023/05/10/mysql-vs-mariadb-schema/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051201.webp)
 
-MySQL 和 MariaDB 是两个常用的关系型数据库，后者是从前者分叉出来。两者基本是一样的，但也有很多差异。本文总结这些差异。
+[[MySQL]] 和 [[MariaDB]] 是两个常用的关系型数据库，后者是从前者分叉出来。两者基本是一样的，但也有很多差异。本文总结这些差异。
 
 8、[AI “越大越好”已经走不通了](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062507.webp)
 
-《经济学家》杂志的一篇新闻分析，认为由于成本和训练材料的限制，AI 模型的规模可能已经到头了，以后不会变得更大，并分析下一步的发展方向是什么。
+《经济学家》杂志的一篇新闻分析，认为由于成本和训练材料的限制，AI 模型的规模可能已经到头了，以后不会变得更大，并分析下一步的发展方向是什么。 //[[守衡]] [[S形曲线现象|S形曲线]] 人类也是一种AI, 只不过没有计算机那么快的学习速度而已, 这意味着如果长时间没有打破生存空间, 人类也将会退化. //反[[迭代|进化]] 热力学第二定律
 
 ## 工具
 
@@ -232,7 +232,7 @@ MySQL 和 MariaDB 是两个常用的关系型数据库，后者是从前者分�
 
 根据文字描述，将二维码转成一幅可扫描的图像的网页工具。（[@Cobb9527](https://github.com/ruanyf/weekly/issues/3226) 投稿）
 
-5、[Language Reactor](https://www.languagereactor.com/)
+5、[Language Reactor](https://www.languagereactor.com/) //[[Chrome]] [[plugin]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050701.webp)
 
@@ -248,7 +248,7 @@ MySQL 和 MariaDB 是两个常用的关系型数据库，后者是从前者分�
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051003.webp)
 
-一个实验性工具，将 JVM 解释器搬上网页，让 Java 代码可以直接在网页运行。
+一个实验性[[tool|工具]]，将 [[JVM]] 解释器搬上网页，让 [[Java]] 代码可以直接在网页运行。
 
 8、[SailboatUI](https://sailboatui.com/)
 
@@ -276,7 +276,7 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050803.webp)
 
-新的、不需要密码的网站登录协议 WebAuthn 的综合介绍。
+新的、不需要密码的网站登录协议 WebAuthn 的综合介绍。 //[[Hack]]
 
 2、[mess with DNS](https://messwithdns.net/)
 
@@ -326,7 +326,7 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 ![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011212.webp)
 
-高算力系统背后的耗能和散热，远超普通人想象。
+高算力系统背后的耗能和散热，远超普通人想象。 
 
 2、[世界最大的心脏](https://www.vox.com/down-to-earth/2022/8/11/23291991/largest-animal-blue-whale-heartbeat)
 
@@ -344,11 +344,11 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 1、[软件开发速度很重要](https://verdagon.dev/blog/when-to-use-memory-safe-part-2)
 
-如果想要降低软件的成本，一般有两种方法。
+如果想要降低软件的[[Cost|成本]]，一般有两种方法。
 
-（1）加快软件开发速度，缓慢的开发会耗尽公司的资金。
+（1）加快软件开发[[速度]]，缓慢的开发会耗尽公司的资金。
 
-（2）提高软件性能，更好的性能会减少资源消耗。
+（2）提高软件[[效率|性能]]，更好的性能会减少资源消耗。
 
 这两种方法，哪一种能够更有效地降低成本呢？
 
@@ -362,7 +362,7 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 由此可见，软件开发的人力成本比电费高得多。
 
-加快软件开发速度，可以节约人力成本，而提高软件性能可以节约电费。因此，针对开发速度进行优化，对降低成本的效果可能更明显。
+加快软件开发[[速度]]，可以节约人力成本，而提高软件性能可以节约电费。因此，针对开发速度进行优化，对降低成本的效果可能更明显。
 
 ## 言论
 
@@ -374,19 +374,19 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 2、
 
-我最近看到许多与“人工智能”相关的商业项目。它们都只是把各种数据发送到 ChatGPT 的 API，假装正在做一些新颖的、令人印象深刻的事情，实际上只是为了尽快拿到风险投资。
+我最近看到许多与“人工智能”相关的商业项目。它们都只是把各种数据发送到 [[ChatGPT]] 的 API，假装正在做一些新颖的、令人印象深刻的事情，实际上只是为了尽快拿到风险投资。
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=36571603)
 
 3、
 
-很多人说，AI 会带来大量失业，这是可能的，因为 AI 让你用更少的人做同样的事情。但是反过来说，它也让你用同样的人做更多的事情，所以 AI 也可能为大家变得更忙，从而增加就业。
+很多人说，AI 会带来大量失业，这是可能的，因为 AI 让你用更少的人做同样的事情。但是反过来说，它也让你用同样的人做更多的事情，所以 AI 也可能为大家变得更忙，从而增加就业。//[[ArtificialIntelligence|AI]] [[economics]]
 
 -- [《人工智能和工作自动化》](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 
 4、
 
-我发现，工作中与计算机打交道时，逻辑很有用，但与人打交道时，逻辑很少有用。
+我发现，工作中与计算机打交道时，逻辑很有用，但与人打交道时，逻辑很少有用。 //[[Zen]] [[Logic|逻辑学]] [[愿力]]
 
 事实上，对于绝大多数的人际交往，逻辑、严谨、辩论都是没用的。
 

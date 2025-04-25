@@ -198,13 +198,13 @@ Vite 是新一代的构建工具，由 Vue 官方团队推出，这一年快速�
 
 3、[一行 CSS 代码实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)（中文）
 
-CSS 命令 `font-variant-east-asian: traditional;`，可以让网站字体从简体变成繁体。
+[[self/5/CSS|CSS]] 命令 `font-variant-east-asian: traditional;`，可以让网站字体从简体变成繁体。
 
 4、[PostgreSQL 数据库的变化捕获和实时通知](https://kaifeiji.cc/post/change-data-capture-and-instant-notification-on-postgresql-via-listen-notify-and-server-sent-events/)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072108.jpg)
 
-数据库发生变化时，如何通知前端网页？本文以 PostgreSQL 数据库为例，介绍了作者的解决方案，使用了服务器端事件。（[@kaifeiji](https://github.com/ruanyf/weekly/issues/1854) 投稿）
+数据库发生变化时，如何通知前端网页？本文以 [[PostgreSQL]] 数据库为例，介绍了作者的解决方案，使用了服务器端事件。（[@kaifeiji](https://github.com/ruanyf/weekly/issues/1854) 投稿）
 
 5、[页脚的变化](https://layerci.com/blog/footer-signaling-baremetrics-hubstaff/)（英文）
 

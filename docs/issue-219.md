@@ -190,7 +190,7 @@ Bun 是 Zig 语言写的 JavaScript 服务器运行环境，目标是兼容 Node
 
 7、[OpenSSL 与 OpenSSH 的区别](https://www.cnblogs.com/foohack/p/4103212.html)（中文）
 
-OpenSSL 与 OpenSSH 都是开源软件，它们的区别是：前者是 C 语言函数库，实现了 SSL 加密协议；后者是加密 Shell 的开源实现，提供了加密登录的客户端和服务端，它依赖于 OpenSSL。
+OpenSSL 与 OpenSSH 都是[[OpenSourceSoftware|开源软件]]，它们的区别是：前者是 C 语言函数库，实现了 SSL 加密协议；后者是加密 Shell 的开源实现，提供了加密登录的客户端和服务端，它依赖于 OpenSSL。
 
 8、[使用人工智能解释代码](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)（英文）
 
@@ -204,7 +204,7 @@ OpenSSL 与 OpenSSH 都是开源软件，它们的区别是：前者是 C 语言
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062406.webp)
 
-一个 macOS 系统的开源软件，可以保存系统剪贴版的历史，查看每一次复制粘贴的内容。
+一个 MacOS 系统的开源软件，可以保存系统剪贴版的历史，查看每一次复制粘贴的内容。
 
 2、[Nude UI](https://nudeui.com/)
 
@@ -238,7 +238,7 @@ OpenSSL 与 OpenSSH 都是开源软件，它们的区别是：前者是 C 语言
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081813.webp)
 
-实时显示 macOS 每个进程的网络速率，适配明暗两个主题。（[@foamzou](https://github.com/ruanyf/weekly/issues/2568) 投稿）
+实时显示 MacOS 每个进程的网络速率，适配明暗两个主题。（[@foamzou](https://github.com/ruanyf/weekly/issues/2568) 投稿）
 
 8、[diskusage](https://github.com/chenquan/diskusage)
 

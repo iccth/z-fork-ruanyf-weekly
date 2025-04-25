@@ -124,7 +124,7 @@ AI 根据当天的新闻热点，生成讲稿，然后采用艾什莉的语音�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080908.webp)
 
-Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式，比较适合同时喜欢这两者的人。
+Rhino 是一个 [[self/4/Linux|Linux]] 发行版，基于 Ubuntu，但是采用滚动更新模式，比较适合同时喜欢这两者的人。
 
 3、[Mastodon 驱动的博客评论](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)（英文）
 
@@ -138,7 +138,7 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 有一种说法，随着计算能力的增长，2048位的 RSA 密钥在2030年将被破解，作者分析这种说法是否可信。
 
-5、[Docker Compose 是怎么来的？](https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/)（英文）
+5、[Docker Compose 是怎么来的？](https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/)（英文） //[[self/5/Docker|Docker]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071103.webp)
 
@@ -154,13 +154,13 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071308.webp)
 
-一篇初学者教程，讲解怎么使用 PostgreSQL 全文搜索功能。
+一篇初学者教程，讲解怎么使用 [[PostgreSQL]] 全文搜索功能。
 
 8、[Node.js 应用如何利用多核 CPU](https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051902.webp)
 
-本文是一篇简单教程，使用 cluster 模块或 pm2，让 Node.js 应用充分利用多核 CPU。
+本文是一篇简单教程，使用 cluster 模块或 pm2，让 [[Nodejs|Node.js]] 应用充分利用多核 CPU。 //[[Thread]]
 
 ## 工具
 
@@ -174,13 +174,13 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080601.webp)
 
-安卓 App，可以实现屏幕翻译，方便使用外国 App。（[@tuesda](https://github.com/ruanyf/weekly/issues/3328) 投稿）
+安卓 [[APP]]，可以实现屏幕翻译，方便使用外国 App //[[tool]]。（[@tuesda](https://github.com/ruanyf/weekly/issues/3328) 投稿）
 
 3、[FoodCa](https://apps.apple.com/cn/app/foodca-ai%E5%8A%A0%E6%8C%81%E7%9A%84%E9%A3%9F%E7%89%A9%E7%83%AD%E9%87%8F%E9%80%9F%E6%9F%A5%E4%B8%8E%E8%AE%B0%E5%BD%95%E5%B7%A5%E5%85%B7/id6451112435)
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080905.webp)
 
-一个 iOS 应用，基于 chatGPT，实现口语化的输入来记录食物热量，例如“我吃了三颗葡萄”。（[@wdkwdkwdk](https://github.com/ruanyf/weekly/issues/3330) 投稿）
+一个 iOS 应用，基于 chatGPT，实现口语化的输入来记录食物热量，例如“我吃了三颗葡萄”。 //[[桥水]] [[[ArtificialIntelligence|AI]]]（[@wdkwdkwdk](https://github.com/ruanyf/weekly/issues/3330) 投稿）
 
 4、[抖音聊天（PC 版）](https://imdesktop.douyin.com/)
 
@@ -202,13 +202,13 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081005.webp)
 
-一款在线画图工具，提供低代码和 AI 智能辅助工具。（[@pddon](https://github.com/ruanyf/weekly/issues/3351) 投稿）
+一款[开源](https://github.com/pddon/pddon-win)的在线画图工具，提供低代码和 AI 智能辅助工具。（[@pddon](https://github.com/ruanyf/weekly/issues/3351) 投稿）
 
 8、[Ruff](https://github.com/astral-sh/ruff)
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061510.webp)
 
-Rust 语言写的 Python Linter，用来检查 Python 代码是否风格正确，运行速度非常快。
+Rust 语言写的 Python Linter，用来检查 [[Python]] 代码是否风格正确，运行速度非常快。
 
 9、[ReactPy](https://reactpy.dev/docs/index.html)
 
@@ -234,7 +234,7 @@ Rust 语言写的 Python Linter，用来检查 Python 代码是否风格正确�
 
 Anthropic 公司 AI 模型“Claude 2”的非官方国内镜像，可以免费使用，与官网体验一致。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3338) 投稿）
 
-2、[AI 导航](https://ai.dreamthere.cn/)
+2、[AI 导航](https://ai.dreamthere.cn/) //[[ChatGPT|GPT]] [[tool]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081006.webp)
 
@@ -322,7 +322,7 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081009.webp)
 
-如果奈特面对挫折和对未来的恐惧，放弃销售运动鞋，没有去日本，Nike 公司也就根本不会存在。
+如果奈特面对挫折和对未来的恐惧，放弃销售运动鞋，没有去日本，Nike 公司也就根本不会存在。 //[[执行者|执行]] [[勇者]]
 
 ## 言论
 

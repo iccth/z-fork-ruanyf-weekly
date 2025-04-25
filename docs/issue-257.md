@@ -323,7 +323,7 @@ Deno 1.34 版引入了一个新功能，可以把 Node.js 程序和 npm 模块�
 
 Udemy 视频课程，搬运到了 B 站，有中文字幕。通过 Node.js 项目，循序渐进学习 Docker 和 Kubernetes。（[@lyf61](https://github.com/ruanyf/weekly/issues/3156) 投稿）
 
-4、[从头实现一个数据库](https://build-your-own.org/database/)
+4、[从头实现一个数据库](https://build-your-own.org/database/) //[[DB]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042409.webp)
 
@@ -401,7 +401,7 @@ Udemy 视频课程，搬运到了 B 站，有中文字幕。通过 Node.js 项�
 
 3、
 
-我建议购买一本《成功人士的七个习惯》，但不要阅读，而是烧掉它，从而做出一个象征性姿态，跟这类成功学决绝。
+我建议购买一本《成功人士的七个习惯》，但不要阅读，而是烧掉它，从而做出一个象征性姿态，跟这类成功学决绝。 //[[知见障]]
 
 -- [Linus Torvalds](https://news.ycombinator.com/item?id=35847971)，Linux 创始人
 

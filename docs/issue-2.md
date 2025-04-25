@@ -43,7 +43,7 @@ Flutter 的最大特点在于，它是跨平台的，不仅可以开发安卓应
 
 > 尽管还是 beta 版，但谷歌已经在多款应用使用 Flutter，最引人注目的是谷歌的广告平台 AdWords。谷歌表示，在 Android 和 iOS 应用商店中已经有数百个 Flutter 应用。
 > 
-> Flutter 也可以看作，谷歌的实验性 [Fuchsia OS](https://arstechnica.com/gadgets/2018/01/googles-fuchsia-os-on-the-pixelbook-it-works-it-actually-works/)又向前推进了一步。虽然这个新操作系统被称为 Fuchsia，更好的名字可能是 Flutter OS。Fuchsia 的用户界面完全是用 Flutter 编写的。
+> Flutter 也可以看作，谷歌的实验性 Fuchsia OS[ ](https://arstechnica.com/gadgets/2018/01/googles-fuchsia-os-on-the-pixelbook-it-works-it-actually-works/)又向前推进了一步。虽然这个新操作系统被称为 Fuchsia，更好的名字可能是 Flutter OS。Fuchsia 的用户界面完全是用 Flutter 编写的。
 
 
 如果想更多了解 Flutter 框架，可以看看这篇《[Flutter 框架研究和与 RN 对比](http://szuwest.github.io/flutterkuang-jia-yan-jiu-he-yu-rndui-bi.html)》。
@@ -88,7 +88,7 @@ Rust 语言入门教程
 
 4、[视频课程] [GitHub 最受欢迎的20个课程仓库](https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832)
 
-很多开放课程的仓库放在 GitHub 上面，GitHub 官方列出了最受欢迎的20个仓库。
+很多开放课程的仓库放在 GitHub 上面，GItHub 官方列出了最受欢迎的20个仓库。
 
 5、[文章] [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 
@@ -102,7 +102,7 @@ Rust 语言入门教程
 
 Uber 架构师分享在搭建分布式支付系统过程中，遇到的最重要的几个概念：SLA、scaling、Consistency、Durability、Idempotency等。
 
-8、[电子书] [解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science)
+8、[电子书] [解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1)
 
 王垠正在写的新书，目前只公布了第一章。
 
@@ -154,7 +154,7 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 > 全世界网游市场排名是：中国、美国、日本、其他国家。第四到第十的市场全部加起来还没有日本大，而中国占了整个市场的三成到四成。我们的游戏在日本排第一，它的一天收入只是中国的十分之一。
 
-2、[黑产和大数据风控之间的攻守之战](https://zhuanlan.zhihu.com/p/35688597)
+2、[黑产和大数据风控之间的攻守之战](https://xw.qq.com/cmsid/20180413A1LJBD)
 
 ![641.jpeg | center | 406x371](https://cdn.yuque.com/yuque/2018/jpeg/84141/1523843579567-237452d2-2b56-4b37-89d4-84373cfe956c.jpeg "")
 

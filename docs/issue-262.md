@@ -24,7 +24,7 @@
 
 最让人无语的是，即使变得如此麻烦，依然不能杜绝密码被盗、被破解、被钓鱼的风险。
 
-多年来，业界一直努力，试图解决密码问题。近两年终于有了突破，各大公司达成一致，设计出了一套**密码的替代方案：密钥登陆，英文叫做 Passkey**。
+多年来，业界一直努力，试图解决密码问题。近两年终于有了突破，各大公司达成一致，设计出了一套**密码的替代方案：密钥登陆，英文叫做 Passkey**。 //[[统筹协调]] [[集成]] [[迭代]] [[博弈]] [[Hack]] [[Cryptography]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071205.webp)
 
@@ -56,7 +56,7 @@ Passkey 这个方案可以做到，登录不需要密码，解决了上面提到
 
 等到用户登录网站，需要私钥证明自己身份时，网站就要向用户选定的“身份管理器”发出请求。这时，“身份管理器”就会调用操作系统的指纹识别或者人脸识别，要求用户完成验证。如果用户通过了，“身份管理器”就允许用户使用保存在里面的私钥。
 
-目前，iOS 和安卓已经支持 Passkey，自带“身份管理器”，有些笔记本（比如 MacBook）也支持。如果是台式机，没有任何识别设备，浏览器就会给出二维码或者蓝牙，让手机代为验证。
+目前，iOS 和安卓已经支持 Passkey，自带“身份管理器”，有些笔记本（比如 Macbook）也支持。如果是台式机，没有任何识别设备，浏览器就会给出二维码或者蓝牙，让手机代为验证。
 
 “身份管理器”也可以做成独立的硬件（比如 Yubikey），这就需要花钱买了。
 
@@ -96,7 +96,7 @@ Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070703.webp)
 
-这个 Bug 好像不那么容易修复。这个事件凸显了无人驾驶的困难，软件如何判别恶意破坏呢。
+这个 Bug 好像不那么容易修复。这个事件凸显了无人驾驶的困难，软件如何判别恶意破坏呢。 //[[混沌]] [[self/6/Variable|Variable]]
 
 3、[最热的一天](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
 
@@ -110,7 +110,7 @@ Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071106.webp)
 
-另外，根据全球气温分布图（上图），可以看到现在的地球，整个低纬度和中纬度都是高温区，只有高原地区除外，非常触目惊心。
+另外，根据全球气温分布图（上图），可以看到现在的地球，整个低纬度和中纬度都是高温区，只有高原地区除外，非常触目惊心。 //[[geography]] 
 
 4、[最大的 LED 装置](https://edition.cnn.com/2023/07/05/travel/msg-sphere-las-vegas-venue-cec/index.html)
 
@@ -132,7 +132,7 @@ Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071111.webp)
 
-这样的装置肯定会成为地标，以及游客的最爱，但同时也是一个高耗能的巨大光污染。
+这样的装置肯定会成为地标，以及游客的最爱，但同时也是一个高耗能的巨大光污染。 //[[需求|低失衡]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071112.webp)
 
@@ -142,7 +142,7 @@ Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070511.webp)
 
-本文讨论一个观点，“进化”（evolution）这个词是否应该改成“演化”？因为生物更多是在适应环境，不一定变得进步。
+本文讨论一个观点，“[[迭代|进化]]”（evolution）这个词是否应该改成“演化”？因为生物更多是在适应环境，不一定变得进步。
 
 2、[我如何创立海外一人 SaSS 公司](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)（中文）
 
@@ -152,19 +152,19 @@ Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071201.webp)
 
-电视机装了爱奇艺 TV 版，息屏状态下，居然在上传数据，只有拔掉电源才会停止。它默认把用户机器用作 CDN 节点。
+电视机装了爱奇艺 TV 版，息屏状态下，居然在上传数据，只有拔掉电源才会停止。它默认把用户机器用作 CDN 节点 //[[桥水]]。
 
 4、[全方位对比 Postgres 和 MySQL (2023 版)](https://mp.weixin.qq.com/s/xf7qb4oAVHyi4_U32FSKPA)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071318.webp)
 
-Postgres 和 MySQL 是两大最主流的关系型数据库，本文对它们进行全方位的比较。（[@milasuperstar](https://github.com/ruanyf/weekly/issues/3269) 投稿）
+[[PostgreSQL]] 和 [[MySQL]] 是两大最主流的关系型数据库，本文对它们进行全方位的比较。（[@milasuperstar](https://github.com/ruanyf/weekly/issues/3269) 投稿）
 
 5、[如何破解滑动验证码？](https://mp.weixin.qq.com/s/iK_JkVRrh5vIRBjnQbDOyw)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071316.webp)
 
-本文介绍了图片滑动验证码的实现原理和流程分析，以及如何破解。（[@niumoo](https://github.com/ruanyf/weekly/issues/3266) 投稿）
+本文介绍了图片滑动验证码的实现原理和流程分析，以及如何破解 //[[Hack]] [[Cryptography]]。（[@niumoo](https://github.com/ruanyf/weekly/issues/3266) 投稿）
 
 6、[优化人工智能生成的二维码](https://antfu.me/posts/ai-qrcode-refine)（英文）
 
@@ -188,7 +188,7 @@ Chrome 浏览器加载 JS 模块时，需要给出模块的 URL。但是，现�
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070510.webp)
 
-美国政府正考虑把中国的云服务商（阿里云、腾讯云、华为云）赶出美国机房。本文分析中美云服务商在东南亚、拉美和中东的全球竞争。
+美国政府正考虑把中国的云服务商（阿里云、腾讯云、华为云）赶出美国机房。本文分析中美云服务商在东南亚、拉美和中东的全球[[竞争]]。
 
 ## 工具
 
@@ -206,7 +206,7 @@ Chrome 浏览器加载 JS 模块时，需要给出模块的 URL。但是，现�
 
 3、[I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)
 
-VS Code 插件，使用 AI 自动生成代码提交的 Commit 摘要，你就不必自己写了。它需要 OpenAI API Key。（[@mefengl](https://github.com/ruanyf/weekly/issues/3248) 投稿）
+一个 [[VSCode|VS Code]] 插件，使用 [[ArtificialIntelligence|AI]] 自动生成代码提交的 Commit 摘要，你就不必自己写了。它需要 OpenAI API Key。 //[[Git]]（[@mefengl](https://github.com/ruanyf/weekly/issues/3248) 投稿）
 
 4、[React1s](https://github.com/aaamoon/react1s)
 
@@ -218,13 +218,13 @@ VS Code 插件，使用 AI 自动生成代码提交的 Commit 摘要，你就不
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071314.webp)
 
-开源的 Telegram 搜索引擎。（[@HandelDev](https://github.com/ruanyf/weekly/issues/3263) 投稿）
+开源的Telegram搜索引擎。（[@HandelDev](https://github.com/ruanyf/weekly/issues/3263) 投稿）
 
 6、[LeaferJS](https://www.leaferjs.com/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071312.webp)
 
-一个国产的 Canvas 2D 图形渲染引擎，追求极致性能。（[@leaferjs](https://github.com/ruanyf/weekly/issues/3246) 投稿）
+一个国产的 Canvas 2D 图形渲染引擎，追求极致性能 //[[UI-Design]]。（[@leaferjs](https://github.com/ruanyf/weekly/issues/3246) 投稿）
 
 7、[AltTab](https://github.com/lwouis/alt-tab-macos)
 
@@ -272,13 +272,13 @@ Linux 系统日志 Syslog 的图形操作工具。
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082303.webp)
 
-上个世纪的 GeoCities 平台存有海量的 Gif 小动画。这个网站有所有这些文件的存档，并提供搜索。
+上个世纪的 GeoCities 平台存有海量的 Gif 小动画。这个网站有所有这些文件的存档，并提供搜索。 //[[UI-Design]]
 
 5、[FlagWaver](https://krikienoid.github.io/flagwaver/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111201.webp)
 
-这个网页模拟旗帜飘扬的效果，你可以上传自己的图片作为旗帜，然后定制各种参数。
+这个网页模拟旗帜飘扬的效果，你可以上传自己的图片作为旗帜，然后定制各种参数 //[[self/8/Image|Image]]。
 
 ## 图片
 
@@ -312,7 +312,7 @@ Linux 系统日志 Syslog 的图形操作工具。
 
 事故调查人员一开始认为是炸弹导致的，但后来确定原因是货舱门的电动锁有设计失误，起飞后并未切断门锁的马达电源，导致飞行中货舱门意外打开，酿成大祸。
 
-事后，所有波音747的门锁都更换了设计。并且，原来的外开门改成了内开门，在高空中，由于机内的气压大于机外，内开门是无法打开的。以后就再也没有发生过类似事故。
+事后，所有波音747的门锁都更换了设计。并且，原来的外开门改成了内开门，在高空中，由于机内的气压大于机外，内开门是无法打开的。以后就再也没有发生过类似事故。 //[[黑匣子]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011716.webp)
 
@@ -352,7 +352,7 @@ Linux 系统日志 Syslog 的图形操作工具。
 
 3、
 
-如果你在手机上看这部电影，你将永远不会体验到它。你认为你已经体验过了，但事实是没有。
+如果你在手机上看这部电影，你将永远不会体验到它。你认为你已经体验过了，但事实是没有。 //[[愿力]] [[课题分离]] [[20230526 Friday#刀剑神域 暮色黄昏]]
 
 真是太糟了，你以为在该死的电话机上看电影，算看过电影吗。去看真实的电影吧。
 
@@ -362,7 +362,7 @@ Linux 系统日志 Syslog 的图形操作工具。
 
 理想的工人是机器人，永不疲倦，永不休息，只要最基本的维护。如果崩溃了，很容易被复制和替换。
 
-你越能够不休息地工作，越说服自己像机器人一样工作，你在市场上的就业价值就越大。
+你越能够不休息地工作，越说服自己像机器人一样工作，你在市场上的就业价值就越大。 //[[守衡]] [[需求]]
 
 -- [《休息不是为了优化》](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
 

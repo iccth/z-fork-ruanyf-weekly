@@ -26,7 +26,7 @@
 
 Elasticsearch 是著名的搜索软件，市场份额非常大，很多大型网站的背后都是它。
 
-2004年，以色列程序员谢伊·巴农（Shay Banon）为了方便妻子查找菜谱，写了一个简单的搜索工具，这就是 Elasticsearch 的由来。
+2004年，以色列程序员谢伊·巴农（Shay Banon）为了方便妻子查找菜谱，写了一个简单的搜索工具，这就是 [[ElasticSearch]] 的由来。
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072306.webp)
 
@@ -60,7 +60,7 @@ Elasticsearch 倒霉的地方在于，遇到的竞争对手是亚马逊，世界
 
 我认为，**这是目前唯一可行的开源软件商业模式**。
 
-有人把它叫做“[开源核心模式](https://handbook.opencoreventures.com/open-core-business-model)”：代码的核心功能是开源的，可以免费使用，但是存在某些限制，比如云服务是独家的，或者某些插件和周边工具是闭源的，需要付费。
+有人把它叫做“[开源核心模式](https://handbook.opencoreventures.com/open-core-business-model)”：代码的核心功能是开源的，可以免费使用，但是存在某些限制，比如云服务是独家的，或者某些插件和周边工具是闭源的，需要付费。 //[[OpenSourceSoftware|Open Source]]
 
 目前，采用这种模式的知名开源软件，除了 Elasticsearch，还有 MongoDB。
 
@@ -146,13 +146,13 @@ Map 和 WeakMap 作为 JS 语言新增的数据结构，很多人不清楚它们
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050601.webp)
 
-如果你要扩展一个类，可以使用继承（inheritance），也可以使用组合（composition）。本文讨论它们的区别和适用场合。
+如果你要扩展一个类，可以使用继承（inheritance），也可以使用组合（composition）。本文讨论它们的区别和适用场合。 //[[UML]] [[SoftwareEngineering]]
 
 5、[CPU 对分支代码的影响](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050610.webp)
 
-本文分析 CPU 怎么处理代码，进而讨论分支语句（if）应该怎么写，执行效率比较高。
+本文分析 CPU 怎么处理代码，进而讨论分支语句（if）应该怎么写，执行效率比较高。 //[[PrincipleOfOperatingSystem]]
 
 6、[Object.keys() 的返回值类型](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)（英文）
 
@@ -164,13 +164,13 @@ Map 和 WeakMap 作为 JS 语言新增的数据结构，很多人不清楚它们
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051001.webp)
 
-NixOS 是一个 Linux 发行版，它有一个系统配置文件，记录所安装的软件。只要有这个文件，就能还原出一模一样的系统。
+NixOS 是一个 [[self/4/Linux|Linux]] 发行版，它有一个系统配置文件，记录所安装的软件。只要有这个文件，就能还原出一模一样的系统。
 
 8、[这个博客托管在我的 Android 手机上](https://androidblog.a.pinggy.io/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051002.webp)
 
-作者介绍怎么把安卓手机当作服务器，托管网站。
+作者介绍怎么把[[Android|安卓]]手机当作[[server|服务器]]，托管网站。
 
 ## 工具
 
@@ -178,7 +178,7 @@ NixOS 是一个 Linux 发行版，它有一个系统配置文件，记录所安�
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052221.webp)
 
-一个生成各种随机值的 JS 库。
+一个生成各种随机值的 JS 库。 //[[JavaScript]] [[tool]] [[自由|随机]]
 
 2、[Primo](https://primocms.org/)
 
@@ -340,13 +340,13 @@ AI 辅助的 Python 学习网站，在线练习编码。（[@stanxing](https://g
 
 1、
 
-在任何一个领域，刻意练习都是造就顶尖人才的方法，也是顶尖人才用来保持领先地位的方法。如果你想成为专业人士，刻意训练自己是绝对必不可少的。
+在任何一个领域，刻意练习都是造就顶尖人才的方法，也是顶尖人才用来保持领先地位的方法。如果你想成为专业人士，刻意训练自己是绝对必不可少的。 //[[知求者]] [[系统性]] [[集中营]] [[857677051]]
 
 -- [《刻意练习终极指南》](https://fs.blog/deliberate-practice-guide/)
 
 2、
 
-如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。
+如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的[[机会成本]]，所以你[[选择]]的工作必须很重要。//[[857676919]]
 
 -- [《高级工程师的道路》](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 
@@ -358,7 +358,7 @@ AI 辅助的 Python 学习网站，在线练习编码。（[@stanxing](https://g
 
 4、
 
-以前是我们学习计算机的语言，以后是让计算机学习我们的语言。
+以前是我们学习计算机的语言，以后是让计算机学习我们的语言。 //[[Zen]] [[ArtificialIntelligence]] [[ComputerScience]]
 
 -- [Stephen Wolfram](https://alphalist.com/podcast/78-stephen-wolfram-founder-ceo-of-wolfram-research)，著名计算机学家
 

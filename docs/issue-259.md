@@ -122,7 +122,7 @@ OpenAI 要求验证手机号，国内的手机都通不过。也就是说，它�
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081803.webp)
 
-他在门上挖了一个通风口，使得风可以通过。通风口上装了琴弦，风吹过时，琴弦就会振动发声。
+他在门上挖了一个通风口，使得风可以通过。通风口上装了琴弦，风吹过时，琴弦就会振动发声。 //[[桥水]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081805.webp)
 
@@ -142,9 +142,9 @@ OpenAI 要求验证手机号，国内的手机都通不过。也就是说，它�
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061509.webp)
 
-机器生成的数据，能用来训练 AI 吗？英国科研人员发现这种情况下，模型将会崩溃。
+机器生成的数据，能用来训练 AI 吗？英国科研人员发现这种情况下，模型将会崩溃。 //[[Zen]] [[ArtificialIntelligence]] [[博弈]]
 
-3、[高效计算三角函数的 CORDIC 算法](http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/)（中文）
+3、[高效计算三角函数的 CORDIC 算法](http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/)（中文） //[[self/4/math|math]]
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061508.webp)
 
@@ -160,13 +160,13 @@ OpenAI 要求验证手机号，国内的手机都通不过。也就是说，它�
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052208.webp)
 
-本文介绍使用 Whisper 模型，自动将视频语音转成文字，并生成字幕。
+本文介绍使用 Whisper 模型，自动将视频语音转成文字，并生成字幕。 //[[Information]] [[ArtificialIntelligence]] [[tool]] [[Video]]
 
 6、[你不一定需要数据库索引](https://www.jefftk.com/p/you-dont-always-need-indexes)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052601.webp)
 
-教科书总是说，数据库检索需要建立索引。但是，如果数据库不大，完全可以不建索引，不会影响检索速度。
+教科书总是说，数据库检索需要建立索引。但是，如果数据库不大，完全可以不建索引，不会影响检索速度。 //[[DB]]
 
 7、[如何让二维码变成图像](https://stable-diffusion-art.com/qr-code/)（英文）
 
@@ -178,7 +178,7 @@ OpenAI 要求验证手机号，国内的手机都通不过。也就是说，它�
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052501.webp)
 
-这篇长文用大量例子，讲解怎么用可视化表示信息。
+这篇长文用大量例子，讲解怎么用可视化表示信息。 //[[ComputerVision|计算机视觉]]
 
 9、[空气过滤机与正压新风系统的比较](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)（英文）
 
@@ -222,7 +222,7 @@ SSH 替代品，用来登陆服务器。最大特点是会话不会因为丢线�
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061504.webp)
 
-一个 Vue 的开发者工具，点击页面上的某个元素，它自动打开代码编辑器，定位到对应的代码位置。（[@zh-lx](https://github.com/ruanyf/weekly/issues/3178) 投稿）
+一个 [[Vue]] 的开发者工具，点击页面上的某个元素，它自动打开代码编辑器，定位到对应的代码位置。（[@zh-lx](https://github.com/ruanyf/weekly/issues/3178) 投稿）
 
 7、[Tiny Player](https://tiny-player.vercel.app/)
 
@@ -260,19 +260,19 @@ Windows 解压软件，针对多核 CPU 和高速固态硬盘优化，实现多�
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061502.webp)
 
-这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/3173) 投稿）
+这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱 //[[Information]]。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/3173) 投稿）
 
 2、[提示工程入门](https://www.promptingguide.ai/)（Prompt Engineering Guide）
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060301.webp)
 
-一本人工智能和提示工程的入门电子书。
+一本[[ArtificialIntelligence|人工智能]]和提示工程的入门电子书。 //[[ChatGPT|GPT]]
 
 3、[GitHub Actions 示例教程](https://www.actionsbyexample.com/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012504.webp)
 
-通过10个详细注释的示例，解释怎么使用 GitHub Actions。
+通过10个详细注释的示例，解释怎么使用 [[GitHub]] Actions。
 
 4、[编译器设计入门](https://www3.nd.edu/~dthain/compilerbook/)（Introduction to Compilers and Language Design）
 
@@ -372,13 +372,13 @@ Windows 解压软件，针对多核 CPU 和高速固态硬盘优化，实现多�
 
 2、
 
-人们依靠机器，希望这能带给他们更多自由，但这只会让拥有机器的人奴役他们。
+人们依靠机器，希望这能带给他们更多[[自由]]，但这只会让拥有机器的人奴役他们。 //[[反互联网寄生方案|反计算机寄生策略]]
 
 -- [弗兰克·赫伯特](https://futo.org/)，科幻小说《沙丘》的作者
 
 3、
 
-作为管理者，你的角色不是自己完成工作，即使你非常擅长干这些事。你的角色是改善团队目标、团队人员和工作流程，尽可能让团队产生乘数效应，放大你的资源。
+作为管理者，你的角色不是自己完成工作，即使你非常擅长干这些事。你的角色是改善团队目标、团队人员和工作流程，尽可能让团队产生乘数效应，放大你的资源。 //[[创造者|创业者]] [[统筹协调|领袖]] [[指数模型]]
 
 -- [Julie Zhuo](https://thetechthinker.substack.com/p/pilot)，Facebook 前产品副总裁
 

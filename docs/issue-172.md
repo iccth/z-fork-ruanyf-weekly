@@ -64,11 +64,11 @@
 
 掌握 Vue 3.0 的最好方法，无疑就是自已动手从头写一个项目。很多同学都知道这一点，但是不知道有什么项目可以写，也不知道遇到困难到哪里找答案。
 
-![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123013.jpg)
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020123013.jpg)
 
 现在正好有这样一个项目，教你用 Vue 3.0 写一个飞机大战游戏，而且全程有视频讲解，解释为什么这么写，以及介绍新的 API。
 
-![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123014.jpg)
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020123014.jpg)
 
 这个视频课程资料，可以帮你达到三个学习目的。
 
@@ -78,7 +78,7 @@
 
 由于讲解得非常细致，整个视频课程分成三大部分，长达450分钟！
 
-![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123016.jpg)
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020123016.jpg)
 
 具体的讲课大纲和课程细节，可以微信扫码了解。该课程由国内著名的大型培训机构“开课吧”，专门为周刊读者提供。
 
@@ -266,7 +266,7 @@ git switch 用来切换分支，git restore 用来恢复原样，可以取代 gi
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080701.jpg)
 
-macOS 系统的 PostgreSQL 数据库安装包，并且内置了许多常用插件，号称是在 Mac 上使用 PostgreSQL 的最简单方法。
+MacOS 系统的 PostgreSQL 数据库安装包，并且内置了许多常用插件，号称是在 Mac 上使用 PostgreSQL 的最简单方法。
 
 7、[Calligrapher.ai](https://www.calligrapher.ai/)
 
